@@ -15,6 +15,11 @@ brew "gh"
 
 cask "notion-calendar"
 cask "microsoft-office"
+cask "obsidian"
+
+cask "discord"
+cask "slack"
+cask "whatsapp"
 
 # Programming engines
 
@@ -41,9 +46,7 @@ cask "imageoptim"
 
 cask "raycast"
 cask "zoom"
-cask "grammarly-desktop"
 cask "spotify"
-cask "aside" # browser
 
 # Devtools
 
@@ -52,27 +55,20 @@ brew "neovim"
 
 # Vibecoding Tools
 
-cask "codex"
-cask "codex-app"
+cask "chatgpt"
 
 cask "cursor"
-cask "cursor-cli"
-cask "grok-build"
+cask "grok-bot"
 
 cask "claude"
 cask "claude-code"
 
-brew "opencode"
-
-cask "copilot-cli"
-
-cask "t3-code"
-
 cask "coderabbit"
-
-brew "hermes-agent"
 
 # Design & Video Editing
 
+cask "affinity"
 cask "figma"
+
+cask "paper-design"
 cask "cap"
